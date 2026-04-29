@@ -26,7 +26,11 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 ## Visualizations
 
 ### Revenue Trend
-![Revenue](./images/Revenue_Trend.png)
+![Revenue Trend](Revenue_Trend.png)
 
 ### Profit Margin Trend
-![Margin](./images/Margin_Trend.png)
+![Profit Margin Trend](Margin_Trend.png)
+
+## Files
+
+[Download Full Excel Model](UberRevOptimization.xlsx)
