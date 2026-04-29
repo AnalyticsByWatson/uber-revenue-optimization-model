@@ -23,14 +23,14 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 - Higher profit margins
 - More efficient demand utilization
 
-## Files
-
-- [Download Full Excel Model](./UberRevOptimization.xlsx)
-
 ## Visualizations
 
 ### Revenue Trend
-[![Revenue](Revenue_Chart.png)](https://github.com/AnalyticsByWatson/uber-revenue-optimization-model/blob/main/Revenue_Trend.png?raw=true)
+![Revenue Trend](./images:Revenue_Chart.png)
 
 ### Profit Margin Trend
-[![Margin](Margin_Chart.png)](https://github.com/AnalyticsByWatson/uber-revenue-optimization-model/blob/main/Margin_Trend.png?raw=true)
+![Profit Margin Trend](./images:Margin_Chart.png)
+
+## Files
+
+[Download Full Excel Model](./UberRevOptimization.xlsx)
