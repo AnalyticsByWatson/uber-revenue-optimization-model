@@ -33,4 +33,4 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 ![Revenue](Revenue_Chart.png)
 
 ### Profit Margin Trend
-![Margin](Margin_Chart.png)
+[![Margin](Margin_Chart.png)](https://github.com/AnalyticsByWatson/uber-revenue-optimization-model/blob/main/Margin_Trend.png?raw=true)
