@@ -30,10 +30,7 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 ## Visualizations
 
 ### Revenue Trend
-![Revenue](Revenue_Chart.png)
+![Revenue](./revenue.png)
 
 ### Profit Margin Trend
-![Margin](Margin_Chart.png)
-
-![Revenue](revenue.png)
-![Margin](margin.png)
+![Margin](./margin.png)
