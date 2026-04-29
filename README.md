@@ -24,7 +24,8 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 - More efficient demand utilization
 
 ## Files
-- `UberRevOptimization.xlsx` – full model (download to explore calculations and assumptions)
+
+- [Download Full Excel Model](./UberRevOptimization.xlsx)
 
 ## Visualizations
 
