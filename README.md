@@ -24,4 +24,12 @@ Introduce dynamic pricing adjustments during high-demand periods to increase rev
 - More efficient demand utilization
 
 ## Files
-- UberRevOptimization.xlsx
+![UberRevOptimization](UberRevOptimization.xlsx)
+
+- ## Visualizations
+
+### Revenue Trend
+![Revenue](Revenue_Chart.png)
+
+### Profit Margin Trend
+![Margin](Margin_Chart.png)
